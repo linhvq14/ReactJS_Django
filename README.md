@@ -21,7 +21,8 @@ Step 1 — Setting Up the Backend:
 
     python manage.py runserver
  
-###Step 2 — Setting Up the Frontend:
+ Step 2 — Setting Up the Frontend:
+-----
 #### - Install module:
 #####    + Open another terminal in your project and run:
     cd frontend
