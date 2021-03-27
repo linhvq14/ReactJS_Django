@@ -2,6 +2,7 @@
 ##Setting up
 
 ###Step 1 — Setting Up the Backend:
+-----
 #### - Create and activate environments:
 #####    + Open terminal in your project and run:
     python -m venv .env
