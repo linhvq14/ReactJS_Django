@@ -1,5 +1,3 @@
- ReactJS_Django
------
 Setting up
 -----
 Step 1 — Setting Up the Backend:
